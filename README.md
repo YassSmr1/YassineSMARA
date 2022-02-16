@@ -12,7 +12,6 @@
 ### 👷 Future software architect
 
 - 🌱 I’m currently learning Blockchain
-- 🥅 2022 Goals: Contribute 3 times a week to open source projects
 
 <br>
 ----
