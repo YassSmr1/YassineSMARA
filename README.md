@@ -11,7 +11,7 @@
 ## 👨‍🎓 Student in the first year of software engineering by apprenticeship at IMT Atlantique.
 ### 👷 Future software architect
 
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning Blockchain, I have already designed two DAPPs in Rust which are currently used on the Elrond blockchain. Im also building on Ethereum.
 
 <br>
 ----
