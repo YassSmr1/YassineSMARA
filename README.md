@@ -1,20 +1,22 @@
 # Hi there 👋, I'm Yassine
 
-## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-<br>
-<a href="https://www.linkedin.com/in/yassine-smara/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.reddit.com/user/envoyVC1084"><img src="	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-<a href="mailto:1yassine.smara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<br><br>
+## 👷 A Junior Full Stack / Solidity Freelance Developer
+
+Hello everyone,
+
+I am passionate about **blockchain technology**, and more specifically **Ethereum**. I have a deep understanding of how the **Ethereum Virtual Machine** (EVM) works, and I am always **monitoring** the **latest developments** in the blockchain space. I am particularly interested in new blockchain platforms, such as SUI, and their unique approaches to things like transfer and transaction validation.
+
+On my GitHub profile, you can find some of the projects that I have worked on (that I am allowed to share). These projects **showcase my skills** as a developer and my skills in front-end development with VueJS, as well as my experience with back-end development using frameworks such as Symfony, Express, and Flask.
+
+I am a **strong believer in good coding practices**, and I always make sure to **test my code** thoroughly. I know that I still have a lot to learn, but I am eager to continue **learning and improving my skills** as a developer. I also try to always use **auditing tools** on all the smart-contract that I create to learn about new flaws. I carry out a constant watch to be aware of **new exploits and flaws** that may impact smart contracts, and I use this knowledge to ensure the **security and reliability** of the contracts that I create.
+
+Thank you for considering me for your project. I look forward to the opportunity to work with you.
+
+- 🌱 I’m currently learning **Three.js**, **Shaders**, and **Smart-Contract auditing**.
+- 👄 I am 🇫🇷, and I speak professional 🏴󠁧󠁢󠁥󠁮󠁧󠁿 
+
 ----
 
-## 👨‍🎓 Student in the first year of software engineering by apprenticeship at IMT Atlantique.
-### 👷 Future software architect
-
-- 🌱 I’m currently learning Blockchain, I have already designed two DAPPs in Rust which are currently used on the Elrond blockchain. Im also building on Ethereum.
-
-<br>
-----
 <br>
 
 ## My Skill Set  
@@ -24,6 +26,8 @@
 
 ### Languages  
 <div align="center">  
+
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
