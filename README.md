@@ -17,6 +17,15 @@ Thank you for considering me for your project. I look forward to the opportunity
 
 ----
 
+Last mission : 
+
+- UGS Labs : <a target="_blank" href="https://twitter.com/UGS_Labs?s=20&t=qk7rprmZqJexOpxBW7-pGg">Twitter</a>, <a target="_blank" href="https://magiceden.io/marketplace/underground_society">Collection +76k $SOL Volume</a>
+
+Re-factored the <a target="_blank" href="https://app.ugslabs.xyz/raffles">website</a>, and added the auction-house.
+Tech stack : Solana, Next.js, Strapi.
+
+----
+
 <br>
 
 ## My Skill Set  
