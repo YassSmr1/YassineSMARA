@@ -15,6 +15,8 @@ Thank you for considering me for your project. I look forward to the opportunity
 - 🌱 I’m currently learning **Three.js**, **Shaders**, and **Smart-Contract auditing**.
 - 👄 I am 🇫🇷, and I speak professional 🏴󠁧󠁢󠁥󠁮󠁧󠁿 
 
+Worked for : Sharky.fi, UGS, Ryu NFT, Rogue West TCG, ...
+
 ----
 
 Last mission : 
